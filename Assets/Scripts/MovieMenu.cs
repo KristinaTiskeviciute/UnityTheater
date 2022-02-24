@@ -18,6 +18,8 @@ public class MovieMenu : MonoBehaviour
     private void OnEnable()
     {
         LoadMovies();
+        arrowButton_prev.gameObject.SetActive(true);
+        arrowButton_next.gameObject.SetActive(true);
     }
 
     public void LoadMovies()
