@@ -1,4 +1,6 @@
 # UnityTheater
+# Using Unity v 21.2.12
+# Android apk in root folder
 
 Hello good Unity people
 Welcome to this mess of a project
