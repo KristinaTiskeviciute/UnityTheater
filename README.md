@@ -20,6 +20,7 @@ THANK YOU, BE STRONG!
 
 
 
+
 What the plan was:
 
 The tables were gonna go something like this (I got a few of them set up with some sample data, making new table if dne, insert, read from etc)
@@ -63,5 +64,9 @@ Other:
 - Panasonic-mode:
     Leave at least one seat between groups to ensure social distancing
 
-- Separate and clean up scripts, scenes, assets/folders![image](https://user-images.githubusercontent.com/25261596/155605148-e4ed2bd1-badd-4fbb-9b69-a1451afb7d15.png)
+- Separate and clean up scripts, scenes, assets/folders!
+- 
+(the orange button only changes seat color to occupied rn nothing else)
+
+https://user-images.githubusercontent.com/25261596/155613343-e5f43d49-ebe5-42c8-b275-fe7620f51fa1.mp4
 
