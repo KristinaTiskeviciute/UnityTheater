@@ -1,12 +1,12 @@
 # UnityTheater
 //Using Unity v 21.2.12    //Android apk in root folder
 
-Hello good Unity people
-Welcome to this mess of a project :)    Here's what you should know:
+Hello good Unity people!   
+
+Welcome to my project :)<br>    Here's what you should know:
 
 1. I am pretty backend -challenged. I really wanted to set up a remote db + server with heroku and clearDB (and I really really tried),
-  but it wouldnt stay published bc of some auth stuff. Eventually I had to give up, because I was running out of time, and ended up starting some locally stored stuff using SQLite instead.
-  
+  but it wouldnt stay published bc of some auth stuff. Eventually I had to give up, because I was running out of time, and ended up starting some locally stored stuff using SQLite instead. It was difficult but I appreciate the challenge and I still have plans to get something up and running sometime soon.
 2. Not sure how hard you guys go over there, but I was told this was a 3-4 hour project. Is that really possible?
 3. Please excuse this mess of a project. I had much bigger and brighter plans for this app, but this week ended up being super busy for me and my brain has turned to mush.
    I had to balance this project + my current job, family + timezones here in Norway (+ this administrator lady from my college who has to send me a document so I can go home and wont respond for a whole week (visa-stuff))
