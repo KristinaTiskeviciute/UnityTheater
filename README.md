@@ -37,10 +37,12 @@ Reservation(id, screening is, emplyee/pos_id, status)
 
 The UI: 
 
-Welcome screen:
 
-<img src="https://user-images.githubusercontent.com/25261596/155645912-99a6f899-d5ac-4534-b57a-b2529fba4284.png" alt="drawing" width="600"/>
+<img src="https://user-images.githubusercontent.com/25261596/155645912-99a6f899-d5ac-4534-b57a-b2529fba4284.png" alt="drawing" width="500"/>   <img src="https://user-images.githubusercontent.com/25261596/155651583-4cdc91b7-b545-4be5-ac16-73b013f51077.png" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/25261596/155651587-87f774bf-740f-4b59-b111-1dd54bfd1414.png" alt="drawing" width="500"/>
 
+
+Welcome screen
 Date and movie selection screen 
 	(Sick carousel for displaying movie info)
 	Only show movies available on selected day
